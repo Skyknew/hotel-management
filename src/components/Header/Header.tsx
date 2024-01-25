@@ -23,7 +23,7 @@ const Header = () => {
           </ul>
         </div>
       <ul className="flex items-center justify-between w-full md:w-1/3 mt-4">
-
+      
       </ul>
     </header>
   )
